@@ -5,19 +5,19 @@ Nowadays I'm sharpening my skills as a software/algorithms developer.
 
 In my page you can find repositories on topics:
 
+:desktop_computer: Desktop Application
+
 :spider_web: Web Application
 
 :iphone: Mobile Application
 
-:desktop_computer: Desktop Application
-
-:globe_with_meridians: Networks
+:globe_with_meridians: Computer Networks
 
 :dizzy:	Design Patterns
 
 :minidisc: Computer Structures
 
-:robot:	Artificial Intelligence and Machine Learning 
+:robot:	Artificial Intelligence, Machine Learning and Robotics
 
 And more...
 
