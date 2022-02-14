@@ -3,7 +3,7 @@
 My name is Shlomi and I'm a student of Computer Science (B.Sc.) at Bar-Ilan University and a Cyber Security analyst from Israel.
 Nowadays I'm sharpening my skills as a software/algorithms developer.
 
-### In my page you can find repositories on topics:
+#### In my page you can find repositories on topics:
 
 :desktop_computer: Desktop Application
 
@@ -21,7 +21,7 @@ Nowadays I'm sharpening my skills as a software/algorithms developer.
 
 And more...
 
-### I've programmed mostly in:
+#### I've programmed mostly in:
 
 C ● C++ ● C# (ASP.NET, WPF) ● Java ● Python ● HTML ● CSS ● JavaScript ● Node.js ● React Native ● Kotlin
 
