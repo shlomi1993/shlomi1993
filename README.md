@@ -15,7 +15,7 @@ Nowadays I'm sharpening my skills as a software/algorithms developer.
 
 :dizzy:	Design Patterns
 
-:minidisc: Computer Structures
+:minidisc: Computer Architecture
 
 :robot:	Artificial Intelligence, Machine Learning and Robotics
 
