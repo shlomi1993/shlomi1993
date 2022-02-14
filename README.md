@@ -26,4 +26,5 @@ And more...
 C ● C++ ● C# (ASP.NET, WPF) ● Java ● Python ● HTML ● CSS ● JavaScript ● Node.js ● React Native ● Kotlin
 
 And I'm additionally skilled in:
+
 Linux ● REST API ● MVVM / MVC ● Figma ● Cyber Security ● Computer Networks ● SOC ● SIEM ● Firewall ● DLP
