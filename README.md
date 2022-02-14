@@ -3,7 +3,6 @@
 My name is Shlomi and I'm a student of Computer Science (B.Sc.) at Bar-Ilan University and a Cyber Security analyst from Israel.
 Nowadays I'm sharpening my skills as a software/algorithms developer.
 
-
 In my page you can find repositories on topics:
 
 :desktop_computer: Desktop Application
@@ -21,7 +20,6 @@ In my page you can find repositories on topics:
 :robot:	Artificial Intelligence, Machine Learning and Robotics
 
 And more...
-
 
 My main languages and skills:
 
