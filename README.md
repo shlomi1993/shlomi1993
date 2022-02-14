@@ -21,6 +21,9 @@ In my page you can find repositories on topics:
 
 And more...
 
-My main languages and skills:
+I've programmed mostly in:
 
-![image](https://user-images.githubusercontent.com/72878018/153858097-8d96a08c-69ab-4374-a043-d9ffd7f5c75a.png)
+C ● C++ ● C# (ASP.NET, WPF) ● Java ● Python ● HTML ● CSS ● JavaScript ● Node.js ● React Native ● Kotlin
+
+And I'm additionally skilled in:
+Linux ● REST API ● MVVM / MVC ● Figma ● Cyber Security ● Computer Networks ● SOC ● SIEM ● Firewall ● DLP
