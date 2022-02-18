@@ -17,7 +17,11 @@ Nowadays I'm sharpening my skills as a software/algorithms developer.
 
 :minidisc: Computer Architecture
 
-:robot:	Artificial Intelligence, Machine Learning and Robotics
+:chess_pawn: Artificial Intelligence
+
+:mechanical_arm: Machine Learning
+
+:robot: Robotics
 
 And more...  
 <br/>
