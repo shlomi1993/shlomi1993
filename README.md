@@ -1,7 +1,7 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shlomi and I'm a computer scientist (B.Sc.) from Bar-Ilan University with Cyber Security background from Israel.
-Nowadays I'm sharpening my skills as a software/algorithms/automation engineer.
+My name is Shlomi and I'm a software engineer from Israel.
+Nowadays I'm sharpening my skills as a software/algorithm engineer.
 
 **In my page, you can find repositories on the following topics:**
 
