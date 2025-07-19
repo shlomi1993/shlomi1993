@@ -1,34 +1,47 @@
-# Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shlomi and I'm a software engineer from Israel.
-Nowadays I'm sharpening my skills as a software/algorithm engineer.
+I'm **Shlomi**, a passionate software engineer from Israel.
+Currently pursuing an M.Sc. in **Machine Learning & Big Data**, I'm expanding my expertise in **deep learning** and **software development**, while continuing to build reliable software systems in the industry.
 
-**In my page, you can find repositories on the following topics:**
+## Explore
 
-:desktop_computer: Desktop Applications
+This GitHub is a curated portfolio of hands-on projects spanning multiple domains:
 
-:spider_web: Web Applications
+♟️ Artificial Intelligence
 
-:iphone: Mobile Applications
+🦾 Machine Learning
 
-:globe_with_meridians: Computer Networks
+🔍 Deep Learning
 
-:dizzy:	Design Patterns
+🧠 Neuromorphic Engineering
 
-:minidisc: Computer Architecture
+🤖 Robotics
 
-:chess_pawn: Artificial Intelligence
+🖥️ Desktop, Mobile, and Web Applications
 
-:mechanical_arm: Machine Learning
+🧩 Design Patterns
 
-:robot: Robotics
+🌐 Computer Networks
 
-And more...  
-<br/>
-**I've programmed mostly in:**
+💽 Low-Level and Computer Architecture
 
-C ● C++ ● C# ● Java ● Python ● HTML ● CSS ● JavaScript ● Node.js ● React ● React Native ● Kotlin
+Each repository focuses on learning through building, with an emphasis on clarity, structure, and hands-on exploration.
 
-**And I'm additionally skilled in:**
+## Languages & Tools
 
-Linux ● REST API ● AWS ● Figma ● Cyber Security ● Computer Networks ● SOC ● SIEM ● Firewall ● DLP
+I’ve worked with a variety of languages and technologies:
+
+**Programming:**  
+Python · C/C++ · C# · Java · Kotlin · JavaScript · HTML · CSS
+
+**Frameworks**  
+PyTorch · TensorFlow · NumPy · Pandas · Node.js · React · React Native · REST APIs · AWS
+
+**Domains of Expertise:**  
+Machine Learning · Software Engineering · Software Validation · Contiious Integration · Cyber Security · Computer Networks
+
+## Let’s connect through code
+
+Whether you’re interested in AI models, embedded systems, or just exploring modern Computer Science concepts, there’s probably something here for you.
+
+Feel free to check out my projects, follow, or reach out. I’m always up for technical growth and collaboration.
