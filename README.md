@@ -1,7 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Shlomi, a passionate software engineer from Israel 🤓
-Currently pursuing an **M.Sc. in Machine Learning & Big Data**, and deepening my expertise in **deep learning** and **software development**, while continuing to build reliable software systems in the industry.
+I'm Shlomi, a passionate software engineer from Israel. Currently pursuing an **M.Sc. in Machine Learning & Big Data**, and deepening my expertise in **deep learning** and **software development**, while continuing to build reliable software systems in the industry.
 
 ## Explore
 
@@ -27,7 +26,7 @@ This GitHub is a curated portfolio of hands-on projects spanning multiple domain
 
 Each repository focuses on learning through building, with an emphasis on clarity, structure, and hands-on exploration.
 
-## Domains of Expertise:
+## Domains of Expertise
 
 Machine Learning · Software Engineering · Software Validation · Contiious Integration · Cyber Security · Computer Networks
 
