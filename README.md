@@ -42,7 +42,6 @@ Feel free to check out my projects, follow, or reach out. I’m always up for te
 | --- | --- |
 | [sketchloop-ai](https://github.com/shlomi1993/sketchloop-ai) | Iterative design experiments using sketches and generative AI. |
 | [photo-sorter](https://github.com/shlomi1993/photo-sorter) | Correct photo and video dates from filenames, folders, and metadata. |
-| [shlomi1993](https://github.com/shlomi1993/shlomi1993) | My GitHub profile and project portfolio. |
 | [sharded-simclr](https://github.com/shlomi1993/sharded-simclr) | Distributed SimCLR training with model sharding and profiling. |
 | [green-taxi-ray-project](https://github.com/shlomi1993/green-taxi-ray-project) | Distributed taxi-demand recommendations using Ray. |
 | [green-taxi-mlflow-project](https://github.com/shlomi1993/green-taxi-mlflow-project) | Taxi tip prediction, monitoring, and retraining with MLflow. |
