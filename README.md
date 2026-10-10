@@ -47,17 +47,17 @@ Feel free to check out my projects, follow, or reach out. I’m always up for te
 | [green-taxi-ray-project](https://github.com/shlomi1993/green-taxi-ray-project) | Distributed taxi-demand recommendations using Ray. |
 | [green-taxi-mlflow-project](https://github.com/shlomi1993/green-taxi-mlflow-project) | Taxi tip prediction, monitoring, and retraining with MLflow. |
 | [OU-22971-Toolbox](https://github.com/shlomi1993/OU-22971-Toolbox) | Machine learning engineering, MLOps, and distributed computing coursework. |
-| [llm-from-scratch](https://github.com/shlomi1993/llm-from-scratch) / [LLMs-from-scratch](https://github.com/shlomi1993/LLMs-from-scratch) | GPT-style language models with training and CLI tools, alongside the upstream book companion fork. |
+| [llm-from-scratch](https://github.com/shlomi1993/llm-from-scratch) / [LLMs-from-scratch](https://github.com/shlomi1993/LLMs-from-scratch) (forked) | GPT-style language models with training and CLI tools, alongside the upstream book companion fork. |
 | [hailo-rpi5](https://github.com/shlomi1993/hailo-rpi5) | AI inference applications for the Hailo AI HAT on Raspberry Pi 5. |
-| [hailo-apps-infra](https://github.com/shlomi1993/hailo-apps-infra) | Fork of Hailo application pipelines for detection, pose, and segmentation. |
+| [hailo-apps-infra](https://github.com/shlomi1993/hailo-apps-infra) (forked) | Fork of Hailo application pipelines for detection, pose, and segmentation. |
 | [neuromorphic-engineering](https://github.com/shlomi1993/neuromorphic-engineering) | Spiking neural networks and computational neuroscience simulations. |
 | [job-finder-app](https://github.com/shlomi1993/job-finder-app) | Search and filter job postings using custom keywords. |
-| [ztm-master-the-coding-interview-ds-algo](https://github.com/shlomi1993/ztm-master-the-coding-interview-ds-algo) | Fork of data structures and algorithms interview coursework. |
+| [ztm-master-the-coding-interview-ds-algo](https://github.com/shlomi1993/ztm-master-the-coding-interview-ds-algo) (forked) | Fork of data structures and algorithms interview coursework. |
 | [deep-learning-notebooks](https://github.com/shlomi1993/deep-learning-notebooks) | Hands-on notebooks covering machine learning and deep learning. |
 | [real-time-machine-learning](https://github.com/shlomi1993/real-time-machine-learning) | Classical machine learning algorithms in C++ for real-time inference. |
 | [natural-language-processing-in-python](https://github.com/shlomi1993/natural-language-processing-in-python) | NLP notebooks, exercises, and applications in Python. |
 | [computer-vision-in-python](https://github.com/shlomi1993/computer-vision-in-python) | OpenCV and deep learning notebooks with a finger-counting application. |
-| [complete-guide-to-elasticsearch](https://github.com/shlomi1993/complete-guide-to-elasticsearch) | Fork of Elasticsearch course queries and examples. |
+| [complete-guide-to-elasticsearch](https://github.com/shlomi1993/complete-guide-to-elasticsearch) (forked) | Fork of Elasticsearch course queries and examples. |
 | [online-code-blocks-frontend](https://github.com/shlomi1993/online-code-blocks-frontend) | React frontend for collaborative code editing. |
 | [online-code-blocks-backend](https://github.com/shlomi1993/online-code-blocks-backend) | Node.js backend for collaborative code editing. |
 | [online-code-blocks](https://github.com/shlomi1993/online-code-blocks) | Full-stack collaborative code-sharing application. |
@@ -73,7 +73,7 @@ Feel free to check out my projects, follow, or reach out. I’m always up for te
 | [ai-search-algorithms](https://github.com/shlomi1993/ai-search-algorithms) | Search algorithms for Berkeley Pacman AI exercises. |
 | [programming-language-theory](https://github.com/shlomi1993/programming-language-theory) | Programming language exercises covering closures and concurrency. |
 | [crypto-messaging-system](https://github.com/shlomi1993/crypto-messaging-system) | Layered encrypted messaging through a mix network. |
-| [flightgear-desktop-app](https://github.com/shlomi1993/flightgear-desktop-app) | Desktop flight simulator application using FlightGear. |
+| [flightgear-desktop-app](https://github.com/shlomi1993/flightgear-desktop-app) (forked) | Desktop flight simulator application using FlightGear. |
 | [flight-simulator-android-app](https://github.com/shlomi1993/flight-simulator-android-app) | Android flight simulator controller application. |
 | [thread-pool](https://github.com/shlomi1993/thread-pool) | Thread pool implementation in C. |
 | [file-comparison](https://github.com/shlomi1993/file-comparison) | Compare files and identify identical or similar contents. |
