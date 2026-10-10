@@ -47,8 +47,7 @@ Feel free to check out my projects, follow, or reach out. I’m always up for te
 | [green-taxi-ray-project](https://github.com/shlomi1993/green-taxi-ray-project) | Distributed taxi-demand recommendations using Ray. |
 | [green-taxi-mlflow-project](https://github.com/shlomi1993/green-taxi-mlflow-project) | Taxi tip prediction, monitoring, and retraining with MLflow. |
 | [OU-22971-Toolbox](https://github.com/shlomi1993/OU-22971-Toolbox) | Machine learning engineering, MLOps, and distributed computing coursework. |
-| [llm-from-scratch](https://github.com/shlomi1993/llm-from-scratch) | GPT-style language models with training and interactive CLI tools. |
-| [LLMs-from-scratch](https://github.com/shlomi1993/LLMs-from-scratch) | Fork of the companion code for Build a Large Language Model (From Scratch). |
+| [llm-from-scratch](https://github.com/shlomi1993/llm-from-scratch) / [LLMs-from-scratch](https://github.com/shlomi1993/LLMs-from-scratch) | GPT-style language models with training and CLI tools, alongside the upstream book companion fork. |
 | [hailo-rpi5](https://github.com/shlomi1993/hailo-rpi5) | AI inference applications for the Hailo AI HAT on Raspberry Pi 5. |
 | [hailo-apps-infra](https://github.com/shlomi1993/hailo-apps-infra) | Fork of Hailo application pipelines for detection, pose, and segmentation. |
 | [neuromorphic-engineering](https://github.com/shlomi1993/neuromorphic-engineering) | Spiking neural networks and computational neuroscience simulations. |
