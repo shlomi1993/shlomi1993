@@ -47,13 +47,11 @@ Feel free to check out my projects, follow, or reach out. I’m always up for te
 | [green-taxi-mlflow-project](https://github.com/shlomi1993/green-taxi-mlflow-project) | Taxi tip prediction, monitoring, and retraining with MLflow. |
 | [OU-22971-Toolbox](https://github.com/shlomi1993/OU-22971-Toolbox) | Machine learning engineering, MLOps, and distributed computing coursework. |
 | [llm-from-scratch](https://github.com/shlomi1993/llm-from-scratch) / [LLMs-from-scratch](https://github.com/shlomi1993/LLMs-from-scratch) (forked) | GPT-style language models with training and CLI tools, alongside the upstream book companion fork. |
-| [hailo-rpi5](https://github.com/shlomi1993/hailo-rpi5) | AI inference applications for the Hailo AI HAT on Raspberry Pi 5. |
-| [hailo-apps-infra](https://github.com/shlomi1993/hailo-apps-infra) (forked) | Fork of Hailo application pipelines for detection, pose, and segmentation. |
-| [neuromorphic-engineering](https://github.com/shlomi1993/neuromorphic-engineering) | Spiking neural networks and computational neuroscience simulations. |
 | [job-finder-app](https://github.com/shlomi1993/job-finder-app) | Search and filter job postings using custom keywords. |
 | [ztm-master-the-coding-interview-ds-algo](https://github.com/shlomi1993/ztm-master-the-coding-interview-ds-algo) (forked) | Fork of data structures and algorithms interview coursework. |
 | [deep-learning-notebooks](https://github.com/shlomi1993/deep-learning-notebooks) | Hands-on notebooks covering machine learning and deep learning. |
 | [real-time-machine-learning](https://github.com/shlomi1993/real-time-machine-learning) | Classical machine learning algorithms in C++ for real-time inference. |
+| [neuromorphic-engineering](https://github.com/shlomi1993/neuromorphic-engineering) | Spiking neural networks and computational neuroscience simulations. |
 | [natural-language-processing-in-python](https://github.com/shlomi1993/natural-language-processing-in-python) | NLP notebooks, exercises, and applications in Python. |
 | [computer-vision-in-python](https://github.com/shlomi1993/computer-vision-in-python) | OpenCV and deep learning notebooks with a finger-counting application. |
 | [complete-guide-to-elasticsearch](https://github.com/shlomi1993/complete-guide-to-elasticsearch) (forked) | Fork of Elasticsearch course queries and examples. |
